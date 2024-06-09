@@ -1,2 +1,2 @@
 # file-upload
- a simple file upload web using node,express, and react
+A simple file upload web application using Node, Express, and React.
